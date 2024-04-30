@@ -1,4 +1,7 @@
 # TVCBusData
+
+This work is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/
+
 Here we have data behind the figures and tables behind paper "A Quantitative Microbial Risk Assessment Approach to Estimate Exposure to SARS-CoV-2 on a Bus".
 
 All csv and xlsx files are either single simulation data or a summary of data 1000 simulation under default parameters, whereas all csv.xz are compressed csv files that contain all passengers data across many simulations.
